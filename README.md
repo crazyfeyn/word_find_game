@@ -1,10 +1,14 @@
-# flutter_application
+Word Find Game (word_find_game)
 
-A new Flutter project.
+Description: A word-finding game where users must identify words based on provided images.
 
-## Getting Started
+Features:
+Image-based word search.
+Increasing levels of difficulty.
+Engaging and educational gameplay.
 
-This project is a starting point for a Flutter application.
+Technologies:
+DART
 
 A few resources to get you started if this is your first Flutter project:
 
